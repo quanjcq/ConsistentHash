@@ -1,5 +1,5 @@
 # 一致性hash
-  一致性hash一种根据关键字做负载均衡的算法 [代码](https://github.com/Jaskey/ConsistentHash)
+  一致性hash一种根据关键字做负载均衡的算法 [代码](https://github.com/quanjcq/QCache/blob/master/src/java/main/common/ConsistentHash.java)
   
 # 一致性hash优点
   节点丢失，或者加入的时候，影响的是一小段空间而不是全局数据
